@@ -11,13 +11,13 @@
 // firebase.initializeApp(firebaseConfig);
 
 var firebaseConfig = {
-    apiKey: "AIzaSyBz0YSeBST7Ud2k-Kla9GYj-yYqusLll3c",
-    authDomain: "removirtual-fa3b3.firebaseapp.com",
-    databaseURL: "https://removirtual-fa3b3.firebaseio.com",
-    projectId: "removirtual-fa3b3",
-    storageBucket: "removirtual-fa3b3.appspot.com",
-    messagingSenderId: "17916687649",
-    appId: "1:17916687649:web:efcbfc9b14ee5ddeafba60"
+    apiKey: "AIzaSyAj4MDWNLCyxElvomUMdebJFm2-dW10YWg",
+    authDomain: "remo-online.firebaseapp.com",
+    databaseURL: "https://remo-online-default-rtdb.firebaseio.com",
+    projectId: "remo-online",
+    storageBucket: "remo-online.appspot.com",
+    messagingSenderId: "884200111998",
+    appId: "1:884200111998:web:1b0163b545a159b44b7d2f"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
